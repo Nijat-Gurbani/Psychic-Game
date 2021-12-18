@@ -1,0 +1,25 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: lightskyblue;
+}
+
+header {
+    margin: 25px auto;
+    text-align: center;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+
+.container {
+    background-color: lightgray;
+    padding: 10px;
+    font-size: 22px;
+}
+
+.container h4 {
+    text-align: center;
+    padding: 10px 0 15px 0;
+    font-size: 25px;
+}
